@@ -96,4 +96,29 @@
     Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
 
     End Sub
+
+    Private Sub btnReset_Click(sender As Object, e As EventArgs) Handles btnReset.Click
+        btn1.Text = ""
+        btn1.Enabled = True
+        btn2.Text = ""
+        btn2.Enabled = True
+        btn3.Text = ""
+        btn3.Enabled = True
+        btn4.Text = ""
+        btn4.Enabled = True
+        btn5.Text = ""
+        btn5.Enabled = True
+        btn6.Text = ""
+        btn6.Enabled = True
+        btn7.Text = ""
+        btn7.Enabled = True
+        btn8.Text = ""
+        btn8.Enabled = True
+        btn9.Text = ""
+        btn9.Enabled = True
+
+
+
+
+    End Sub
 End Class
