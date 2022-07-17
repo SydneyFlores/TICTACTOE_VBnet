@@ -1,0 +1,12 @@
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\bin\Debug\TICTACTOE_VBnet.exe.config
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\bin\Debug\TICTACTOE_VBnet.exe
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\bin\Debug\TICTACTOE_VBnet.pdb
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\bin\Debug\TICTACTOE_VBnet.xml
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.vbproj.AssemblyReference.cache
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.Form1.resources
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.Resources.resources
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.vbproj.GenerateResource.cache
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.vbproj.CoreCompileInputs.cache
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.exe
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.xml
+C:\Users\Mhar Sydney\source\repos\vb\TICTACTOE_VBnet\obj\Debug\TICTACTOE_VBnet.pdb
